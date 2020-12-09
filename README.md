@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Version: June 2020
+Version: December 2020
